@@ -38,28 +38,30 @@ Pic 3:
  
 <img width="524" alt="patern" src="https://user-images.githubusercontent.com/63283543/126078053-cb328b31-f827-4d7f-8019-ac4fe40fef7b.png">
 
-                                      
+                                  Menu to select the pattern type                            
                                       
 Pic 4:
  
 <img width="524" alt="color" src="https://user-images.githubusercontent.com/63283543/126078088-e029ed12-e6b2-4bd5-a85a-a2b2c5740ada.png">
 
 
-                                      The Window of the Application to create and merge the Watermark in PDF
+                                      Select the colour of the text to be Water Marked
   
 Pic 5:
  
 <img width="524" alt="font" src="https://user-images.githubusercontent.com/63283543/126078131-36554a36-2777-40be-b24d-d513955a8d5c.png">
 
 
-                                      The Window of the Application to create and merge the Watermark in PDF
+                                  Select the font Size of the  text to be Water Marked
                                       
 Pic 6:
  
 <img width="265" alt="wtrmarkCreated" src="https://user-images.githubusercontent.com/63283543/126078138-56fdeadf-31c9-4e9c-b098-b0afaab0a181.png">
 
 
-                                      The Window of the Application to create and merge the Watermark in PDF
+                                    Browse the original PDF and Watermarked pdf
+                                For Example original PDF: report body (3 copies).pdf
+                                         Watermarked pdf: jois.pdf
 Pic 7:
  
 <img width="525" alt="full" src="https://user-images.githubusercontent.com/63283543/126078161-41a968d9-21c4-4480-9c40-bd69539a8811.png">
