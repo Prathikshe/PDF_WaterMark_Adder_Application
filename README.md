@@ -58,19 +58,19 @@ Pic 6:
  
 <img width="265" alt="wtrmarkCreated" src="https://user-images.githubusercontent.com/63283543/126078138-56fdeadf-31c9-4e9c-b098-b0afaab0a181.png">
 
-
-                                    Browse the original PDF and Watermarked pdf
-                                For Example original PDF: report body (3 copies).pdf
-                                         Watermarked pdf: jois.pdf
+                                              Water Marked PDF
+                                   
 Pic 7:
  
 <img width="525" alt="full" src="https://user-images.githubusercontent.com/63283543/126078161-41a968d9-21c4-4480-9c40-bd69539a8811.png">
 
 
 
-                                      The Window of the Application to create and merge the Watermark in PDF 
+                                       Browse the original PDF and Watermarked pdf
+                                For Example original PDF: report body (3 copies).pdf
+                                         Watermarked pdf: jois.pdf
                                       
-Pic 3:
+Pic 8:
  
 <img width="294" alt="mergedpage" src="https://user-images.githubusercontent.com/63283543/126078153-4c066182-8ed8-43de-bd3e-cd49579673a3.png">
 
