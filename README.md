@@ -1,12 +1,11 @@
 # PDF_WaterMark_Adder_Application
 # Create WaterMark in the desired standard Positions 
 # This is the System application to Create watermark and Add watermarks to the PDF
-# textEditor_using_Tkinter-jois_textEditor-
 Hello everyone this is a python application developed using Tkinter library, This application is made for PC environment which will run fine in windows,linux and mac PC's.
-As the name suggests this is an **Text editor** application which also includes some **cool features**.
+As the name suggests this is an **Pdf merger** application which also includes some **cool features**.
 
 Steps to install the application:
-1. download **"setup_Jois_TextEditor.exe"** from here (found in above files).
+1. download **"Pdf_WaterMark_Merger.exe"** from here (found in above files).
 2. Install the downloaded file. 
 3. Go through the setup wizard and complete the installation process.
 4. You're all set to use the application.
