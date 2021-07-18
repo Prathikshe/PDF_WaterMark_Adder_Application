@@ -1,7 +1,7 @@
 # PDF_WaterMark_Adder_Application
-# textEditor_using_Tkinter-jois_textEditor-
+
 Hello everyone this is a python application developed using Tkinter library, This application is made for PC environment which will run fine in windows,linux and mac PC's.
-As the name suggests this is an **Text editor** application which also includes some **cool features**.
+As the name suggests this is an ** ** application which also includes some **cool features**.
 
 Steps to install the application:
 1. download **"setup_Jois_TextEditor.exe"** from here (found in above files).
@@ -56,7 +56,7 @@ Pic 6:
 <img width="265" alt="wtrmarkCreated" src="https://user-images.githubusercontent.com/63283543/126079091-65be5000-4606-425c-a904-5cc814b0c015.png">
 
 
-                                                          Water Marked PDF
+                                                     Water Marked PDF
 Pic 7:
 
 <img width="525" alt="full" src="https://user-images.githubusercontent.com/63283543/126079132-421d9e9f-3289-4964-8223-64c779b6ca41.png">
@@ -67,21 +67,8 @@ Pic 7:
                                                 Watermarked pdf: jois.pdf
 Pic 8:
 
+<img width="294" alt="mergedpage" src="https://user-images.githubusercontent.com/63283543/126079163-f3e467f4-ace1-425f-930c-2e4941bb440a.png">
 
 
-                               The Window of the Application to create and merge the Watermark in PDF
-Pic 6:
+                                             Original PDF with Watermark
 
-<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
-
-                               The Window of the Application to create and merge the Watermark in PDF
-Pic 6:
-
-<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
-
-                               The Window of the Application to create and merge the Watermark in PDF
-Pic 6:
-
-<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
-
-                               The Window of the Application to create and merge the Watermark in PDF
