@@ -23,3 +23,34 @@ Pic 1:
 <img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
 
                                The Window of the Application to create and merge the Watermark in PDF
+                               
+Pic 2:
+
+<img width="526" alt="create WTR mark" src="https://user-images.githubusercontent.com/63283543/126078940-b0b6a8c9-73c0-4d95-8142-003fac00f727.png">
+
+                                                     Enter the watermark text
+                              
+
+Pic 3:
+
+<img width="524" alt="patern" src="https://user-images.githubusercontent.com/63283543/126078956-9ffd4c07-b96b-4682-a2f9-12fa90e8b746.png">
+
+
+                                                 Menu to select the pattern type 
+                               
+Pic 4:
+
+<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
+
+                               The Window of the Application to create and merge the Watermark in PDF
+                               
+Pic 5:
+
+<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
+
+                               The Window of the Application to create and merge the Watermark in PDF
+Pic 6:
+
+<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
+
+                               The Window of the Application to create and merge the Watermark in PDF
