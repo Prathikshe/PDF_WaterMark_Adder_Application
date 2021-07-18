@@ -31,14 +31,14 @@ Pic 2:
  
 <img width="526" alt="create WTR mark" src="https://user-images.githubusercontent.com/63283543/126078025-4f0ebe68-8eac-4685-8843-eb1524b9188a.png">
 
- 
-                                      The Window of the Application to create and merge the Watermark in PDF 
+                                       Enter the watermark text
+                           
                                       
 Pic 3:
  
 <img width="524" alt="patern" src="https://user-images.githubusercontent.com/63283543/126078053-cb328b31-f827-4d7f-8019-ac4fe40fef7b.png">
 
-                                      The Window of the Application to create and merge the Watermark in PDF
+                                      
                                       
 Pic 4:
  
