@@ -40,15 +40,17 @@ Pic 3:
                                
 Pic 4:
 
-<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
+<img width="524" alt="color" src="https://user-images.githubusercontent.com/63283543/126078974-ba6c9c85-1278-4272-bb0e-5a6113639524.png">
 
-                               The Window of the Application to create and merge the Watermark in PDF
+                                         Select the colour of the text to be Water Marked
+                               
                                
 Pic 5:
 
-<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
+<img width="524" alt="font" src="https://user-images.githubusercontent.com/63283543/126078991-8def4149-b76a-4c86-a5cf-5bebe2f62501.png">
 
-                               The Window of the Application to create and merge the Watermark in PDF
+
+                               
 Pic 6:
 
 <img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
