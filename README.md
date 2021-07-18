@@ -40,10 +40,37 @@ Pic 3:
 
                                       The Window of the Application to create and merge the Watermark in PDF
                                       
-Pic 3:
+Pic 4:
  
 <img width="524" alt="color" src="https://user-images.githubusercontent.com/63283543/126078088-e029ed12-e6b2-4bd5-a85a-a2b2c5740ada.png">
 
 
                                       The Window of the Application to create and merge the Watermark in PDF
   
+Pic 5:
+ 
+<img width="524" alt="font" src="https://user-images.githubusercontent.com/63283543/126078131-36554a36-2777-40be-b24d-d513955a8d5c.png">
+
+
+                                      The Window of the Application to create and merge the Watermark in PDF
+                                      
+Pic 6:
+ 
+<img width="265" alt="wtrmarkCreated" src="https://user-images.githubusercontent.com/63283543/126078138-56fdeadf-31c9-4e9c-b098-b0afaab0a181.png">
+
+
+                                      The Window of the Application to create and merge the Watermark in PDF
+Pic 7:
+ 
+<img width="525" alt="full" src="https://user-images.githubusercontent.com/63283543/126078161-41a968d9-21c4-4480-9c40-bd69539a8811.png">
+
+
+
+                                      The Window of the Application to create and merge the Watermark in PDF 
+                                      
+Pic 3:
+ 
+<img width="294" alt="mergedpage" src="https://user-images.githubusercontent.com/63283543/126078153-4c066182-8ed8-43de-bd3e-cd49579673a3.png">
+
+
+                                      The Window of the Application to create and merge the Watermark in PDF                                     
