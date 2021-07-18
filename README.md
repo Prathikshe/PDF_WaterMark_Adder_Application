@@ -72,3 +72,4 @@ Pic 8:
 
                                              Original PDF with Watermark
 
+Screen shots of the application can be found in screenshots folder(find in above files)
