@@ -49,8 +49,37 @@ Pic 5:
 
 <img width="524" alt="font" src="https://user-images.githubusercontent.com/63283543/126078991-8def4149-b76a-4c86-a5cf-5bebe2f62501.png">
 
-
+                                      Select the font Size of the  text to be Water Marked
                                
+Pic 6:
+
+<img width="265" alt="wtrmarkCreated" src="https://user-images.githubusercontent.com/63283543/126079091-65be5000-4606-425c-a904-5cc814b0c015.png">
+
+
+                                                          Water Marked PDF
+Pic 7:
+
+<img width="525" alt="full" src="https://user-images.githubusercontent.com/63283543/126079132-421d9e9f-3289-4964-8223-64c779b6ca41.png">
+
+
+                                          Browse the original PDF and Watermarked pdf
+                                    For Example original PDF: report body (3 copies).pdf
+                                                Watermarked pdf: jois.pdf
+Pic 8:
+
+
+
+                               The Window of the Application to create and merge the Watermark in PDF
+Pic 6:
+
+<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
+
+                               The Window of the Application to create and merge the Watermark in PDF
+Pic 6:
+
+<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
+
+                               The Window of the Application to create and merge the Watermark in PDF
 Pic 6:
 
 <img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
