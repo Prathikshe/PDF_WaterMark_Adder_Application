@@ -24,4 +24,12 @@ Pic 1:
  
 <img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126077914-9a1966e5-ee85-403f-a4b6-27d7d4d1e2e4.png">
  
-                                             The Window of the Application to create and merge the Watermark in PDF 
+                                      The Window of the Application to create and merge the Watermark in PDF 
+
+
+Pic 2:
+ 
+<img width="526" alt="create WTR mark" src="https://user-images.githubusercontent.com/63283543/126078025-4f0ebe68-8eac-4685-8843-eb1524b9188a.png">
+
+ 
+                                      The Window of the Application to create and merge the Watermark in PDF 
