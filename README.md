@@ -20,46 +20,46 @@ Some of the **Snap Shots** of the application are shared below
 
 Pic 1:
 
-<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
+<img width="1008" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
 
                                The Window of the Application to create and merge the Watermark in PDF
                                
 Pic 2:
 
-<img width="526" alt="create WTR mark" src="https://user-images.githubusercontent.com/63283543/126078940-b0b6a8c9-73c0-4d95-8142-003fac00f727.png">
+<img width="1008" alt="create WTR mark" src="https://user-images.githubusercontent.com/63283543/126078940-b0b6a8c9-73c0-4d95-8142-003fac00f727.png">
 
                                                      Enter the watermark text
                               
 
 Pic 3:
 
-<img width="524" alt="patern" src="https://user-images.githubusercontent.com/63283543/126078956-9ffd4c07-b96b-4682-a2f9-12fa90e8b746.png">
+<img width="1008" alt="patern" src="https://user-images.githubusercontent.com/63283543/126078956-9ffd4c07-b96b-4682-a2f9-12fa90e8b746.png">
 
 
                                                  Menu to select the pattern type 
                                
 Pic 4:
 
-<img width="524" alt="color" src="https://user-images.githubusercontent.com/63283543/126078974-ba6c9c85-1278-4272-bb0e-5a6113639524.png">
+<img width="1008" alt="color" src="https://user-images.githubusercontent.com/63283543/126078974-ba6c9c85-1278-4272-bb0e-5a6113639524.png">
 
                                          Select the colour of the text to be Water Marked
                                
                                
 Pic 5:
 
-<img width="524" alt="font" src="https://user-images.githubusercontent.com/63283543/126078991-8def4149-b76a-4c86-a5cf-5bebe2f62501.png">
+<img width="1008" alt="font" src="https://user-images.githubusercontent.com/63283543/126078991-8def4149-b76a-4c86-a5cf-5bebe2f62501.png">
 
                                       Select the font Size of the  text to be Water Marked
                                
 Pic 6:
 
-<img width="265" alt="wtrmarkCreated" src="https://user-images.githubusercontent.com/63283543/126079091-65be5000-4606-425c-a904-5cc814b0c015.png">
+<img width="1008" alt="wtrmarkCreated" src="https://user-images.githubusercontent.com/63283543/126079091-65be5000-4606-425c-a904-5cc814b0c015.png">
 
 
                                                      Water Marked PDF
 Pic 7:
 
-<img width="525" alt="full" src="https://user-images.githubusercontent.com/63283543/126079132-421d9e9f-3289-4964-8223-64c779b6ca41.png">
+<img width="1008" alt="full" src="https://user-images.githubusercontent.com/63283543/126079132-421d9e9f-3289-4964-8223-64c779b6ca41.png">
 
 
                                           Browse the original PDF and Watermarked pdf
@@ -67,7 +67,7 @@ Pic 7:
                                                 Watermarked pdf: jois.pdf
 Pic 8:
 
-<img width="294" alt="mergedpage" src="https://user-images.githubusercontent.com/63283543/126079163-f3e467f4-ace1-425f-930c-2e4941bb440a.png">
+<img width="1008" alt="mergedpage" src="https://user-images.githubusercontent.com/63283543/126079163-f3e467f4-ace1-425f-930c-2e4941bb440a.png">
 
 
                                              Original PDF with Watermark
